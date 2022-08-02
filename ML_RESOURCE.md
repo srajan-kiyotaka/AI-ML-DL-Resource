@@ -78,6 +78,8 @@ Machine Learning
 - [Simplilearn: Machine Learning Tutorial Videos](https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy)▶️
 - [Machine Learning Tutorial in Python](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn)▶️
 - [deeplizard: Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)▶️
+- [Luis Serrano: A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
+- [StatQuest: A Gentle Introduction to Machine Learning](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
 - [Probabilistic Machine Learning — Philipp Hennig, 2021](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd), [Tweet](https://twitter.com/omarsar0/status/1383360564710174720?s=20)
 
 - [10 Powerful YouTube Channels for Data Science Aspirants](https://www.analyticsvidhya.com/blog/2020/08/10-powerful-youtube-channels-for-data-science-aspirants/) - Analytics Vidhya's post. [Sentdex](https://www.youtube.com/c/sentdex/playlists), [3Blue1Brown](https://www.youtube.com/c/3blue1brown/playlists), [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/playlists), [StatQuest](https://www.youtube.com/c/joshstarmer/playlists), [Krish Naik](https://www.youtube.com/user/krishnaik06/playlists), [Python Programmer](https://www.youtube.com/c/FlickThrough/playlists), [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists), [Tech With Tim](https://www.youtube.com/c/TechWithTim/playlists), [Brandon Foltz](https://www.youtube.com/c/BrandonFoltz/playlists), [365 Data Science](https://www.youtube.com/c/365DataScience/playlists)
@@ -89,6 +91,25 @@ Machine Learning
 - [Statistical Machine Learning: Spring 2017](http://www.stat.cmu.edu/~ryantibs/statml/) by Ryan Tibshirani, Larry Wasserman, Carnegie Mellon University.
 
 _Note: Below you can find the best lectures for popular Machine Learning Algorithms_
+
+## Machine Learning Fundamentals _(These terms will be often used in the below algorithms)_
+
+- [Bias and Variance](https://www.youtube.com/watch?v=EuBBz3bI-aA)
+- [Cross Validation](https://www.youtube.com/watch?v=fSytzGwwBVw)
+- [Machine Learning Fundamentals: The Confusion Matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)
+- [Sensitivity and Specivicity](https://www.youtube.com/watch?v=sunUKFXMHGk)
+- [ROC and AUC, Clearly Explained!](https://www.youtube.com/watch?v=4jRBRDbJemM)
+- [StatQuest: R-squared explained](https://www.youtube.com/watch?v=2AQKmw14mHM)
+- [StatQuest: P Values, clearly explained](https://www.youtube.com/watch?v=5Z9OIYA8He8)
+- [Regularization Part 1: Ridge Regression](https://www.youtube.com/watch?v=Q81RR3yKn30)
+- [Regularization Part 2: Lasso Regression](https://www.youtube.com/watch?v=NGf0voTMlcs)
+- [Maximum Likelihood](https://www.youtube.com/watch?v=XepXtl9YKwc)
+- [Covariance and Correlation Part 1: Covariance](https://www.youtube.com/watch?v=qtaqvPAeEJY)
+- [Statistics Fundamentals: The Mean, Variance and Standard Deviation](https://www.youtube.com/watch?v=SzZ6GpcfoQY)
+- [Statistics Fundamentals: Population Parameters](https://www.youtube.com/watch?v=vikkiwjQqfU)
+- [Glossary: Statistics](https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/wiki/Glossary:-Statistics)
+- [Glossary: Machine Learning](https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/wiki/Glossary:-Machine-Learning)
+- [Looking at R-Squared](https://medium.com/@erika.dauria/looking-at-r-squared-721252709098)
 
 ## Linear Regression
 
