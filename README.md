@@ -63,11 +63,37 @@ Deep learning drives many artificial intelligence (AI) applications and services
 
 ### [Deep learning Resource](DL_RESOURCE.md)
 
+<div align="center">
+<H2>
+Best Websites to Learn AI/ML
+</H2>
+</div>
+
+- [Towards Data Science](https://towardsdatascience.com/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/)
+- [pyimagesearch](https://www.pyimagesearch.com/)
+- [The AI Learner](https://theailearner.com/)
+- [fast.ai](https://www.fast.ai/)
+- [Machine Learning Mastery](https://machinelearningmastery.com/)
+- [KDnuggets](https://www.kdnuggets.com/)
+- [anotherdatum](https://anotherdatum.com/)
+- [AWS ML blogs](https://aws.amazon.com/blogs/machine-learning/)
+- [ML from scratch](https://mlfromscratch.com/)
+- [Learn OpenCV](https://www.learnopencv.com/)
+- [Elite data science](https://elitedatascience.com/)
 
 
+<div align="center">
+<H2>
+Amazing Resource From Where I had Taken The Reference!
+</H2>
+</div>
 
-
-
-
-
-
+- [sksoumik](https://github.com/sksoumik/AI-resources#course)
+- [quickgrid](https://github.com/quickgrid/AI-Resources)
+- [mrsaeeddev](https://github.com/mrsaeeddev/free-ai-resources)
+- [aiwithqasim](https://github.com/aiwithqasim/Free-Artificial-Intelligence-Resources)
+- [nivu](https://github.com/nivu/ai_all_resources)
+- [mdozmorov](https://github.com/mdozmorov/MachineLearning_notes#keras-tensorflow)
+- [memo](https://github.com/memo/ai-resources)
+- [rueedlinger](https://github.com/rueedlinger/ml-resources)
