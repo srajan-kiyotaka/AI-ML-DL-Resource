@@ -7,7 +7,7 @@ AI/ML/DL Resource
 <img src="https://img.shields.io/github/last-commit/srajan-kiyotaka/AI-ML-DL-Resource" alt="Last Commit Badge"/>
 <img src="https://img.shields.io/github/commit-activity/w/srajan-kiyotaka/AI-ML-DL-Resource" alt="Commit Activity Badge"/>
 <img src="https://img.shields.io/github/contributors/srajan-kiyotaka/AI-ML-DL-Resource" alt="Contributors Badge"/>
-<a href="https://github.com/srajan-kiyotaka/AI-ML-DL-Resource/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/srajan-kiyotaka/AI-ML-DL-Resource?style=plastic"></a>
+<a href="https://github.com/srajan-kiyotaka/AI-ML-DL-Resource/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/srajan-kiyotaka/AI-ML-DL-Resource"></a>
 <img src="https://img.shields.io/github/license/srajan-kiyotaka/AI-ML-DL-Resource" alt="License Badge"/>
 
 
