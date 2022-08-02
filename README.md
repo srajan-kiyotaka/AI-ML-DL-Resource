@@ -7,8 +7,9 @@ AI/ML/DL Resource
 <img src="https://img.shields.io/github/last-commit/srajan-kiyotaka/AI-ML-DL-Resource" alt="Last Commit Badge"/>
 <img src="https://img.shields.io/github/commit-activity/w/srajan-kiyotaka/AI-ML-DL-Resource" alt="Commit Activity Badge"/>
 <img src="https://img.shields.io/github/contributors/srajan-kiyotaka/AI-ML-DL-Resource" alt="Contributors Badge"/>
+<a href="https://github.com/srajan-kiyotaka/AI-ML-DL-Resource/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/srajan-kiyotaka/AI-ML-DL-Resource?style=plastic"></a>
 <img src="https://img.shields.io/github/license/srajan-kiyotaka/AI-ML-DL-Resource" alt="License Badge"/>
-<img src="https://img.shields.io/github/stars/srajan-kiyotaka/AI-ML-DL-Resource?style=social" alt="Stars Badge"/>
+
 
 > Artificial Intelligence, Machine learning and Deep Learning Resources. 🚀 FREE AI/ML/DL Resources - 🎓 Courses, 📝 Blogs, 🔬 Research, and many more!
 
@@ -17,6 +18,8 @@ AI/ML/DL Resource
 </a>
 <a href="https://github.com/srajan-kiyotaka">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/srajan-kiyotaka?label=Follow&style=social"/></a>
+<img src="https://img.shields.io/github/stars/srajan-kiyotaka/AI-ML-DL-Resource?style=social" alt="Stars Badge"/>
+<img src="https://img.shields.io/github/watchers/srajan-kiyotaka/AI-ML-DL-Resource?style=Watch" alt="Watch Badge"/>
 </div>
 <div align="center">
 <img src="https://github.com/srajan-kiyotaka/free-ai-resources/blob/master/companies.jpg" alt="Companies"/>
