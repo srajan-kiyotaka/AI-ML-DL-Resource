@@ -1,5 +1,6 @@
 <div align="center">
 <H1>
+<a href="https://emoji.discord.st/emojis/368fa844-401a-4be3-a68e-71c32ad74d88.png"><img src="https://emoji.discord.st/emojis/368fa844-401a-4be3-a68e-71c32ad74d88.png" width="128px" height="128px" alt="midoriya_ready"></a>  
 Artificial Intelligence
   
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/main/LICENSEs)
