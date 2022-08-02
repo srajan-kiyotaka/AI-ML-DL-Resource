@@ -1,5 +1,8 @@
 <div align="center">
 <H1>
+  
+<a href="https://emoji.discord.st/emojis/3dad9d16-69b8-46e3-b860-9c85cf1a7fe6.png"><img src="https://emoji.discord.st/emojis/3dad9d16-69b8-46e3-b860-9c85cf1a7fe6.png" width="112px" height="112px" alt="midoriya_ready"></a>
+  
 BOOK
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/main/LICENSEs)
@@ -116,3 +119,5 @@ BOOK
   </tr>
 
  </table>
+
+_Important Notice: All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement._
