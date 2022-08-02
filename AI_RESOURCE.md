@@ -1,6 +1,9 @@
 <div align="center">
 <H1>
 Artificial Intelligence
+  
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/main/LICENSEs)
+  
 </H1>
 </div>
 
