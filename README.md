@@ -19,7 +19,7 @@ AI/ML/DL Resource
 <a href="https://github.com/srajan-kiyotaka">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/srajan-kiyotaka?label=Follow&style=social"/></a>
 <img src="https://img.shields.io/github/stars/srajan-kiyotaka/AI-ML-DL-Resource?style=social" alt="Stars Badge"/>
-<img src="https://img.shields.io/github/watchers/srajan-kiyotaka/AI-ML-DL-Resource?style=Watch" alt="Watch Badge"/>
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/srajan-kiyotaka/AI-ML-DL-Resource?style=social">
 </div>
 <div align="center">
 <img src="https://github.com/srajan-kiyotaka/free-ai-resources/blob/master/companies.jpg" alt="Companies"/>
