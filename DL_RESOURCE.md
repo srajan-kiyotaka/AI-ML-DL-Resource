@@ -18,6 +18,7 @@ Deep Learning
 - [MIT Deep Learning by Lex Fridman](https://deeplearning.mit.edu/)
   - [Deep Learning Lectures (YouTube)](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 - [Deep Learning in Tamil](https://www.youtube.com/channel/UC2YVnH6aMky1SMdmlo5S9-A)
+- [Deep Learning (CS7015 - IIT Madras)](https://youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
 
 ### Deep Leraning Books
 
