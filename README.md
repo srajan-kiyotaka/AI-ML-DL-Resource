@@ -19,6 +19,7 @@ AI/ML/DL Resource
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/srajan-kiyotaka?label=Follow&style=social"/></a>
 </div>
 <div align="center">
+<img src="https://github.com/srajan-kiyotaka/free-ai-resources/blob/master/companies.jpg" alt="Companies"/>
 <H1>
 Artificial Intelligence
 </H1>
