@@ -64,9 +64,15 @@ Deep learning drives many artificial intelligence (AI) applications and services
 ### [Deep learning Resource](DL_RESOURCE.md)
 
 <div align="center">
-<H2>
+
+# [BOOK](BOOK.md)
+
+</div>
+
+<div align="center">
+<H1>
 Best Websites to Learn AI/ML
-</H2>
+</H1>
 </div>
 
 - [Towards Data Science](https://towardsdatascience.com/)
@@ -97,3 +103,5 @@ Amazing Resource From Where I had Taken The Reference!
 - [mdozmorov](https://github.com/mdozmorov/MachineLearning_notes#keras-tensorflow)
 - [memo](https://github.com/memo/ai-resources)
 - [rueedlinger](https://github.com/rueedlinger/ml-resources)
+
+_Important Notice: All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement._
