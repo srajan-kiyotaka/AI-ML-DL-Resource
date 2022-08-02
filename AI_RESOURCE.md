@@ -18,6 +18,7 @@ Artificial Intelligence
 - [Microsoft AI School](https://aischool.microsoft.com/en-us/home)
 - [Learn with Google AI](https://ai.google/education/)
 - [Crash Course - Artificial Intelligence](https://www.youtube.com/watch?v=GvYYFloV0aA&list=PL8dPuuaLjXtO65LeD2p4_Sb5XQ51par_b)
+- [- Ai for Everyone course by Coursera](https://www.coursera.org/learn/ai-for-everyone)
 
 ### 🎥 YOUTUBE CHANNELS:
 - [The Massachusetts Institute of Technology's Computer Science and Artificial Intelligence Laboratory](https://www.youtube.com/user/MITCSAIL/videos)
