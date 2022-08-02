@@ -1,5 +1,7 @@
 <div align="center">
 <H1>
+  
+<a href="https://emoji.discord.st/emojis/flandre_laugh.png"><img src="https://emoji.discord.st/emojis/flandre_laugh.png" width="128px" height="128px" alt="midoriya_ready"></a>  
 Deep Learning
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/main/LICENSEs)
