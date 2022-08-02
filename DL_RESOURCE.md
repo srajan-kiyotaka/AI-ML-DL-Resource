@@ -293,3 +293,5 @@ Deep Learning
 - https://greyatom.com/glabs
 - [John Searle: "Consciousness in Artificial Intelligence" | Talks at Google](https://www.youtube.com/watch?v=rHKwIYsPXLg)
 - [ML Terms](https://docs.google.com/document/d/15ZFIglX3oPtk9R_tIdxigc-mG0l2RPAoQFPFFaVw6cc)
+
+_Important Notice: All product names, logos, and brands are property of their respective owners. All company, product and service names used in this repository are for identification purposes only. Use of these names, logos, and brands does not imply endorsement._
