@@ -48,7 +48,19 @@ Machine Learning is the field of study that gives computers the capability to le
 
 ### [ML Resource](ML_RESOURCE.md)
 
+<div align="center">
+<H1>
+Deep Learning
+</H1>
+</div>
 
+### WHAT IS Deep Learning?
+
+Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data. While a neural network with a single layer can still make approximate predictions, additional hidden layers can help to optimize and refine for accuracy.
+
+Deep learning drives many artificial intelligence (AI) applications and services that improve automation, performing analytical and physical tasks without human intervention. Deep learning technology lies behind everyday products and services (such as digital assistants, voice-enabled TV remotes, and credit card fraud detection) as well as emerging technologies (such as self-driving cars).
+
+### [Deep learning Resource](DL_RESOURCE.md)
 
 
 
